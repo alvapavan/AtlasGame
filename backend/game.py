@@ -11,6 +11,7 @@ class AtlasGame:
         self.death_points = death_points
         self.game_on = True
         self.current_letter = random.choice('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
+        self.current_word = pd.NA
     
     def oppn_turn(self, oppn):
         oppn = oppn.capitalize()
@@ -18,6 +19,7 @@ class AtlasGame:
         if oppn in set(self.data['place']) and oppn[0] == self.current_letter:
             self.data = self.data[self.data['place'] != oppn]
             self.current_letter = oppn[-1].capitalize()
+            self.current_word = oppn
             return oppn, True
         else:
             return "Invalid Place or Wrong Starting Letter!", False
@@ -31,6 +33,7 @@ class AtlasGame:
         selected_place, self.game_on = self.select_strategic_game(available_places)
         if self.game_on:
             self.current_letter = selected_place[-1].capitalize()
+            self.current_word = selected_place
         
         return selected_place, self.game_on
     
@@ -44,10 +47,10 @@ class AtlasGame:
         best_next_words = []
         fut_move_counts = []
 
-        for idx, row in available_places.itterrows():
+        for idx, row in available_places.iterrows():
             if row['Start'] == self.current_letter:
                 poss_end_lets.add(row['End'])
-                poss_end_places.append(row['places'])
+                poss_end_places.append(row['place'])
         
         poss_end_list = list(poss_end_lets)
 
@@ -66,7 +69,7 @@ class AtlasGame:
             for future_end in sublist:
                 if future_end in self.death_points:
                     if not (self.data['Start']  == future_end).value_counts().empty:
-                        min_death_score = min(min_death_score, (self.data['Start'] == future_end.value_counts()[True]))
+                        min_death_score = min(min_death_score, (self.data['Start'] == future_end).value_counts()[True])
                         if future_end == poss_end_list[len(fut_end_count)]:
                             min_death_score -= 1
     
@@ -86,13 +89,13 @@ class AtlasGame:
             for place in poss_end_places:
                 if place[-1].capitalize() == best_next_words[best_next_word_index]:
                     self.data = self.data[self.data['place'] != place]
-                    return best_next_words[best_next_word_index], True
+                    return place, True
         else:
             for index, value in enumerate(fut_end_count):
                 if value == curr:
                     for place in poss_end_places:
                         if place[-1].capitalize() == poss_end_list[index]:
                             self.data = self.data[self.data['place'] != place]
-                            return poss_end_list[index], True
+                            return place, True
         
         return ' ', False

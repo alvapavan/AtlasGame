@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .App {
   text-align: center;
 }
@@ -6,7 +10,9 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.x{
+  background-image: "C:\Users\alvap\OneDrive\PS\Projects\AtlasGame\frontend\atlas-game\xyz.jpg";
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
