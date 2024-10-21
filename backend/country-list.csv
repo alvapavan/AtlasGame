@@ -1,0 +1,497 @@
+,place,Start,End
+0,Abkhazia,A,A
+1,Afghanistan,A,N
+2,Akrotiri and Dhekelia,A,A
+3,Albania,A,A
+4,Algeria,A,A
+5,American Samoa,A,A
+6,Andorra,A,A
+7,Angola,A,A
+8,Anguilla,A,A
+9,Antigua and Barbuda,A,A
+10,Argentina,A,A
+11,Armenia,A,A
+12,Aruba,A,A
+13,Ascension Island,A,D
+14,Australia,A,A
+15,Austria,A,A
+16,Azerbaijan,A,N
+17,Bahamas,B,S
+18,Bahrain,B,N
+19,Bangladesh,B,H
+20,Barbados,B,S
+21,Belarus,B,S
+22,Belgium,B,M
+23,Belize,B,E
+24,Benin,B,N
+25,Bermuda,B,A
+26,Bhutan,B,N
+27,Bolivia,B,A
+28,Bolivia,B,A
+29,Bosnia and Herzegovina,B,A
+30,Botswana,B,A
+31,Brazil,B,L
+32,British Virgin Islands,B,S
+33,Brunei,B,I
+34,Bulgaria,B,A
+35,Burkina Faso,B,O
+36,Burundi,B,I
+37,Cambodia,C,A
+38,Cameroon,C,N
+39,Canada,C,A
+40,Cape Verde,C,E
+41,Cayman Islands,C,S
+42,Central African Republic,C,C
+43,Chad,C,D
+44,Chile,C,E
+45,China,C,A
+46,Christmas Island,C,D
+47,Cocos (Keeling) Islands,C,S
+48,Colombia,C,A
+49,Comoros,C,S
+50,Cook Islands,C,S
+51,Costa Rica,C,A
+52,Croatia,C,A
+53,Cuba,C,A
+54,Curaçao,C,O
+55,Cyprus,C,S
+56,Czech Republic,C,C
+57,Côte d'Ivoire,C,E
+58,Democratic Republic of the Congo,D,O
+59,Denmark,D,K
+60,Djibouti,D,I
+61,Dominica,D,A
+62,Dominican Republic,D,C
+63,East Timor,E,R
+64,Easter Island,E,D
+65,Ecuador,E,R
+66,Egypt,E,T
+67,El Salvador,E,R
+68,Equatorial Guinea,E,A
+69,Eritrea,E,A
+70,Estonia,E,A
+71,Ethiopia,E,A
+72,Falkland Islands,F,S
+73,Faroe Islands,F,S
+74,Federated States of Micronesia,F,A
+75,Fiji,F,I
+76,Finland,F,D
+77,France,F,E
+78,French Guiana,F,A
+79,French Polynesia,F,A
+80,Gabon,G,N
+81,Gambia,G,A
+82,Georgia,G,A
+83,Germany,G,Y
+84,Ghana,G,A
+85,Gibraltar,G,R
+86,Greece,G,E
+87,Greenland,G,D
+88,Grenada,G,A
+89,Guam,G,M
+90,Guatemala,G,A
+91,Guernsey,G,Y
+92,Guinea,G,A
+93,Guinea-Bissau,G,U
+94,Guyana,G,A
+95,Haiti,H,I
+96,Honduras,H,S
+97,Hungary,H,Y
+98,Iceland,I,D
+99,India,I,A
+100,Indonesia,I,A
+101,Iran,I,N
+102,Iraq,I,Q
+103,Ireland,I,D
+104,Isle of Man,I,N
+105,Israel,I,L
+106,Italy,I,Y
+107,Jamaica,J,A
+108,Japan,J,N
+109,Jersey,J,Y
+110,Jordan,J,N
+111,Kazakhstan,K,N
+112,Kenya,K,A
+113,Kiribati,K,I
+114,Kosovo,K,O
+115,Kuwait,K,T
+116,Kyrgyzstan,K,N
+117,Laos,L,S
+118,Latvia,L,A
+119,Lebanon,L,N
+120,Lesotho,L,O
+121,Liberia,L,A
+122,Libya,L,A
+123,Liechtenstein,L,N
+124,Lithuania,L,A
+125,Luxembourg,L,G
+126,Macedonia,M,A
+127,Madagascar,M,R
+128,Malawi,M,I
+129,Malaysia,M,A
+130,Maldives,M,S
+131,Mali,M,I
+132,Malta,M,A
+133,Marshall Islands,M,S
+134,Mauritania,M,A
+135,Mauritius,M,S
+136,Mexico,M,O
+137,Moldova,M,A
+138,Monaco,M,O
+139,Mongolia,M,A
+140,Montenegro,M,O
+141,Montserrat,M,T
+142,Morocco,M,O
+143,Mozambique,M,E
+144,Myanmar,M,R
+145,Nagorno-Karabakh Republic,N,C
+146,Namibia,N,A
+147,Nauru,N,U
+148,Nepal,N,L
+149,Netherlands,N,S
+150,New Caledonia,N,A
+151,New Zealand,N,D
+152,Nicaragua,N,A
+153,Niger,N,R
+154,Nigeria,N,A
+155,Niue,N,E
+156,Norfolk Island,N,D
+157,North Korea,N,A
+158,Northern Cyprus,N,S
+159,United Kingdom Northern Ireland,U,D
+160,Northern Mariana Islands,N,S
+161,Norway,N,Y
+162,Oman,O,N
+163,Pakistan,P,N
+164,Palau,P,U
+165,Palestine,P,E
+166,Panama,P,A
+167,Papua New Guinea,P,A
+168,Paraguay,P,Y
+169,Peru,P,U
+170,Philippines,P,S
+171,Pitcairn Islands,P,S
+172,Poland,P,D
+173,Portugal,P,L
+174,Puerto Rico,P,O
+175,Qatar,Q,R
+176,Taiwan,T,N
+177,Republic of the Congo,R,O
+178,Romania,R,A
+179,Russia,R,A
+180,Rwanda,R,A
+181,Saint Barthélemy,S,Y
+182,Saint Helena,S,A
+183,Saint Kitts and Nevis,S,S
+184,Saint Lucia,S,A
+185,Saint Martin,S,N
+186,Saint Pierre and Miquelon,S,N
+187,Saint Vincent and the Grenadines,S,S
+188,Samoa,S,A
+189,San Marino,S,O
+190,Saudi Arabia,S,A
+191,Scotland,S,D
+192,Senegal,S,L
+193,Serbia,S,A
+194,Seychelles,S,S
+195,Sierra Leone,S,E
+196,Singapore,S,E
+197,Sint Maarten,S,N
+198,Slovakia,S,A
+199,Slovenia,S,A
+200,Solomon Islands,S,S
+201,Somalia,S,A
+202,Somaliland,S,D
+203,South Africa,S,A
+204,South Georgia and the South Sandwich Islands,S,S
+205,South Korea,S,A
+206,South Ossetia,S,A
+207,South Sudan,S,N
+208,Spain,S,N
+209,Sri Lanka,S,A
+210,Sudan,S,N
+211,Suriname,S,E
+212,Swaziland,S,D
+213,Sweden,S,N
+214,Switzerland,S,D
+215,Syria,S,A
+216,São Tomé and Príncipe,S,E
+217,Tajikistan,T,N
+218,Tanzania,T,A
+219,Thailand,T,D
+220,Togo,T,O
+221,Tonga,T,A
+222,Transnistria,T,A
+223,Trinidad and Tobago,T,O
+224,Tristan da Cunha,T,A
+225,Tunisia,T,A
+226,Turkey,T,Y
+227,Turkmenistan,T,N
+228,Turks and Caicos Islands,T,S
+229,Tuvalu,T,U
+230,Uganda,U,A
+231,Ukraine,U,E
+232,United Arab Emirates,U,S
+233,United Kingdom; England,U,D
+234,United States,U,S
+235,United States Virgin Islands,U,S
+236,Uruguay,U,Y
+237,Uzbekistan,U,N
+238,Vanuatu,V,U
+239,Vatican City,V,Y
+240,Venezuela,V,A
+241,Vietnam,V,M
+242,Wales,W,S
+243,Wallis and Futuna,W,A
+244,Western Sahara,W,A
+245,Yemen,Y,N
+246,Zambia,Z,A
+247,Zimbabwe,Z,E
+248,Sukhumi,S,I
+249,Kabul,K,L
+250,Episkopi Cantonment,E,T
+251,Tirana,T,A
+252,Algiers,A,S
+253,Pago Pago,P,O
+254,Andorra la Vella,A,A
+255,Luanda,L,A
+256,The Valley,T,Y
+257,St. John's,S,S
+258,Buenos Aires,B,S
+259,Yerevan,Y,N
+260,Oranjestad,O,D
+261,Georgetown,G,N
+262,Canberra,C,A
+263,Vienna,V,A
+264,Baku,B,U
+265,Nassau,N,U
+266,Manama,M,A
+267,Dhaka,D,A
+268,Bridgetown,B,N
+269,Minsk,M,K
+270,Brussels,B,S
+271,Belmopan,B,N
+272,Porto-Novo,P,O
+273,Hamilton,H,N
+274,Thimphu,T,U
+275,Sucre,S,E
+276,La Paz,L,Z
+277,Sarajevo,S,O
+278,Gaborone,G,E
+279,Brasília,B,A
+280,Road Town,R,N
+281,Bandar Seri Begawan,B,N
+282,Sofia,S,A
+283,Ouagadougou,O,U
+284,Bujumbura,B,A
+285,Phnom Penh,P,H
+286,Yaounde,Y,E
+287,Ottawa,O,A
+288,Praia,P,A
+289,George Town,G,N
+290,Bangui,B,I
+291,N'Djamena,N,A
+292,Santiago,S,O
+293,Beijing,B,G
+294,Flying Fish Cove,F,E
+295,West Island,W,D
+296,Bogota,B,A
+297,Moroni,M,I
+298,Avarua,A,A
+299,San Jose,S,E
+300,Zagreb,Z,B
+301,Havana,H,A
+302,Willemstad,W,D
+303,Nicosia,N,A
+304,Prague,P,E
+305,Yamoussoukro,Y,O
+306,Kinshasa,K,A
+307,Copenhagen,C,N
+308,Djibouti,D,I
+309,Roseau,R,U
+310,Santo Domingo,S,O
+311,Dili,D,I
+312,Hanga Roa,H,A
+313,Quito,Q,O
+314,Cairo,C,O
+315,San Salvador,S,R
+316,Malabo,M,O
+317,Asmara,A,A
+318,Tallinn,T,N
+319,Addis Ababa,A,A
+320,Stanley,S,Y
+321,Tórshavn,T,N
+322,Palikir,P,R
+323,Suva,S,A
+324,Helsinki,H,I
+325,Paris,P,S
+326,Cayenne,C,E
+327,Papeete,P,E
+328,Libreville,L,E
+329,Banjul,B,L
+330,Tbilisi,T,I
+331,Berlin,B,N
+332,Accra,A,A
+333,Gibraltar,G,R
+334,Athens,A,S
+335,Nuuk,N,K
+336,St. George's,S,S
+337,Hagåtña,H,A
+338,Guatemala City,G,Y
+339,St. Peter Port,S,T
+340,Conakry,C,Y
+341,Bissau,B,U
+342,Georgetown,G,N
+343,Port-au-Prince,P,E
+344,Tegucigalpa,T,A
+345,Budapest,B,T
+346,Reykjavík,R,K
+347,New Delhi,N,I
+348,Jakarta,J,A
+349,Tehran,T,N
+350,Baghdad,B,D
+351,Dublin,D,N
+352,Douglas,D,S
+353,Jerusalem,J,M
+354,Rome,R,E
+355,Kingston,K,N
+356,Tokyo,T,O
+357,St. Helier,S,R
+358,Amman,A,N
+359,Astana,A,A
+360,Nairobi,N,I
+361,Tarawa,T,A
+362,Pristina,P,A
+363,Kuwait City,K,Y
+364,Bishkek,B,K
+365,Vientiane,V,E
+366,Riga,R,A
+367,Beirut,B,T
+368,Maseru,M,U
+369,Monrovia,M,A
+370,Tripoli,T,I
+371,Vaduz,V,Z
+372,Vilnius,V,S
+373,Luxembourg,L,G
+374,Skopje,S,E
+375,Antananarivo,A,O
+376,Lilongwe,L,E
+377,Kuala Lumpur,K,R
+378,Male,M,E
+379,Bamako,B,O
+380,Valletta,V,A
+381,Majuro,M,O
+382,Nouakchott,N,T
+383,Port Louis,P,S
+384,Mexico City,M,Y
+385,Chisinau,C,U
+386,Monaco,M,O
+387,Ulaanbaatar,U,R
+388,Podgorica,P,A
+389,Plymouth,P,H
+390,Rabat,R,T
+391,Maputo,M,O
+392,Naypyidaw,N,W
+393,Stepanakert,S,T
+394,Windhoek,W,K
+395,Yaren,Y,N
+396,Kathmandu,K,U
+397,Amsterdam,A,M
+398,Nouméa,N,A
+399,Wellington,W,N
+400,Managua,M,A
+401,Niamey,N,Y
+402,Abuja,A,A
+403,Alofi,A,I
+404,Kingston,K,N
+405,Pyongyang,P,G
+406,Nicosia,N,A
+407,Belfast,B,T
+408,Saipan,S,N
+409,Oslo,O,O
+410,Muscat,M,T
+411,Islamabad,I,D
+412,Ngerulmud,N,D
+413,Jerusalem,J,M
+414,Panama City,P,Y
+415,Port Moresby,P,Y
+416,Asunción,A,N
+417,Lima,L,A
+418,Manila,M,A
+419,Adamstown,A,N
+420,Warsaw,W,W
+421,Lisbon,L,N
+422,San Juan,S,N
+423,Doha,D,A
+424,Taipei,T,I
+425,Brazzaville,B,E
+426,Bucharest,B,T
+427,Moscow,M,W
+428,Kigali,K,I
+429,Gustavia,G,A
+430,Jamestown,J,N
+431,Basseterre,B,E
+432,Castries,C,S
+433,Marigot,M,T
+434,St. Pierre,S,E
+435,Kingstown,K,N
+436,Apia,A,A
+437,San Marino,S,O
+438,Riyadh,R,H
+439,Edinburgh,E,H
+440,Dakar,D,R
+441,Belgrade,B,E
+442,Victoria,V,A
+443,Freetown,F,N
+444,Singapore,S,E
+445,Philipsburg,P,G
+446,Bratislava,B,A
+447,Ljubljana,L,A
+448,Honiara,H,A
+449,Mogadishu,M,U
+450,Hargeisa,H,A
+451,Pretoria,P,A
+452,Grytviken,G,N
+453,Seoul,S,L
+454,Tskhinvali,T,I
+455,Juba,J,A
+456,Madrid,M,D
+457,Sri Jayawardenapura Kotte,S,E
+458,Khartoum,K,M
+459,Paramaribo,P,O
+460,Mbabane,M,E
+461,Stockholm,S,M
+462,Bern,B,N
+463,Damascus,D,S
+464,São Tome,S,E
+465,Dushanbe,D,E
+466,Dodoma,D,A
+467,Bangkok,B,K
+468,Lome,L,E
+469,Nukuʻalofa,N,A
+470,Tiraspol,T,L
+471,Port of Spain,P,N
+472,Edinburgh of the Seven Seas,E,S
+473,Tunis,T,S
+474,Ankara,A,A
+475,Ashgabat,A,T
+476,Cockburn Town,C,N
+477,Funafuti,F,I
+478,Kampala,K,A
+479,Kyiv,K,V
+480,Abu Dhabi,A,I
+481,London,L,N
+482,Washington D.C,W,C
+483,Charlotte Amalie,C,E
+484,Montevideo,M,O
+485,Tashkent,T,T
+486,Port Vila,P,A
+487,Vatican City,V,Y
+488,Caracas,C,S
+489,Hanoi,H,I
+490,Cardiff,C,F
+491,Mata-Utu,M,U
+492,El Aaiún,E,N
+493,Sanaa,S,A
+494,Lusaka,L,A
+495,Harare,H,E
